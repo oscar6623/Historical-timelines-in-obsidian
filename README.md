@@ -1,6 +1,6 @@
 # Historical Timeline 1.26.0
 
-A historical timeline plugin for Obsidian. Keep events in the plugin or choose to create Markdown notes. Uses Obsidian's vault, properties, commands, navigation, themes, and Sync; no separate account, network requests, or runtime dependencies. Requires Obsidian 1.5.7 or newer.
+A historical timeline plugin for Obsidian. Keep events in the plugin or choose to create Markdown notes. Uses Obsidian's vault, properties, commands, navigation, themes, and Sync; no separate account, network requests, or runtime dependencies. Requires Obsidian 1.5.7 or newer. This project is written by ChatGPT solely, and is only premature product since I cannot read a single line of codes.
 
 ## Start using it
 
