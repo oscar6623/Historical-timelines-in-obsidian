@@ -1,0 +1,9 @@
+{
+  "id": "historical-timeline",
+  "name": "Historical Timeline",
+  "version": "1.26.0",
+  "minAppVersion": "1.5.7",
+  "description": "Build historical timelines with optional linked notes, BCE/CE dates, date ranges, categories, and embedded views.",
+  "author": "Local development",
+  "isDesktopOnly": false
+}
